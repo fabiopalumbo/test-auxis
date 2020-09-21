@@ -1,0 +1,7 @@
+name 'mynginx'
+maintainer 'Fabio Palumbo'
+maintainer_email 'fabioppalumbo@gmail.com'
+license 'all_rights'
+description 'Installs/Configures mynginx'
+long_description 'Installs/Configures mynginx'
+version '0.1.2'
